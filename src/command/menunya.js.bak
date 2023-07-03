@@ -1,0 +1,75 @@
+const menunya = ` 
+
+╭╾⌬『OwnerMenu』⌬
+┃ ❍➺.Self
+ ▏❍➺.Public
+┃ ❍➺.Restart
+ ▏❍➺.Shutdown
+┃ ❍➺.CreateGc
+▕ ❍➺.Promote
+┃ ❍➺.Demote
+ ▏❍➺.ListPc
+┃ ❍➺.Block 628xx
+ ▏❍➺.Unblock 628xxx
+┃ ❍➺.SetPpBot
+ ▏❍➺.AntiCall (On/Off)
+┃ ❍➺.AddPrem
+ ▏❍➺.DelPrem
+┃ ❍➺.ListPrem 
+ ▏
+╰⌬
+
+
+╭╾⌬『PanelMenu』⌬
+┃ ❍➺.AddUsr
+ ▏❍➺.DelUsr
+┃ ❍➺.ListSrv
+ ▏❍➺.AddSrv
+┃ ❍➺.DelSrv
+ ▏
+╰⌬
+
+╭╾⌬『PushKontakMenu』⌬
+┃ ❍➺.PushKontak
+ ▏❍➺.PushKontak1 (ViaId)
+┃ ❍➺.GetIdGc
+ ▏❍➺.ListIdGc
+┃ ❍➺.PushUser
+ ▏❍➺.Savecontact
+┃ ❍➺.Join
+ ▏❍➺.Cekmember
+┃ 
+╰⌬
+
+
+╭╾⌬『GroupMenu』⌬
+┃ ❍➺.Kick @
+ ▏❍➺.Add +628xxx
+┃ ❍➺.Linkgc
+ ▏❍➺.Hidetag (Teks)
+┃ ❍➺.TagAll (Teks)
+ ▏❍➺.Antilink (On/Off)
+┃ ❍➺.Gc (O/C Open/Close)
+ ▏❍➺.Welcome (On/Off)
+┃ ❍➺.Left (On/Off)
+ ▏❍➺.SetPpGc
+┃ ❍➺.SetDesk
+▕ ❍➺.ListOnline
+┃ ❍➺.SetSubject
+ ▏❍➺.GetPp @
+┃
+╰⌬
+
+
+
+╭╾⌬『OtherMenu』⌬
+┃ ❍➺.Ai
+ ▏❍➺.AiImage
+┃ ❍➺.Stiker
+ ▏❍➺.Smeme
+┃ ❍➺.Tiktok (Link)
+▕ ❍➺.Qc
+┃ ❍➺.Ping
+ ▏
+╰⌬`
+exports.menunya = menunya
